@@ -1,0 +1,39 @@
+{"pid":7,"type":"jupyter","level":30,"msg":"Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret","time":"2022-01-30T13:13:18.530Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"google.colab serverextension initialized.","time":"2022-01-30T13:13:18.607Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Serving notebooks from local directory: /","time":"2022-01-30T13:13:18.610Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"0 active kernels","time":"2022-01-30T13:13:18.611Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"The Jupyter Notebook is running at:","time":"2022-01-30T13:13:18.612Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"http://172.28.0.12:9000/","time":"2022-01-30T13:13:18.615Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).","time":"2022-01-30T13:13:18.616Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret","time":"2022-01-30T13:13:18.659Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"google.colab serverextension initialized.","time":"2022-01-30T13:13:18.684Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Serving notebooks from local directory: /","time":"2022-01-30T13:13:18.685Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"0 active kernels","time":"2022-01-30T13:13:18.686Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"The Jupyter Notebook is running at:","time":"2022-01-30T13:13:18.687Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"http://172.28.0.2:9000/","time":"2022-01-30T13:13:18.688Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).","time":"2022-01-30T13:13:18.688Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel started: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:15:13.286Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Adapting to protocol v5.1 for kernel 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:15:14.462Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:19:26.320Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:23:55.860Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:25:57.521Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:27:52.456Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:30:12.067Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:33:18.086Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:34:09.184Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Adapting to protocol v5.1 for kernel 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:36:26.365Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:47:41.238Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:51:23.498Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:58:00.164Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T13:59:50.500Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T14:03:24.427Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T14:06:07.217Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T14:10:16.247Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T14:11:40.716Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Adapting to protocol v5.1 for kernel 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T14:18:53.898Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"Kernel restarted: 33f70041-14a6-488b-addc-9a1f195cb113","time":"2022-01-30T14:19:58.159Z","v":0}
+{"pid":8,"type":"jupyter","level":40,"msg":"[libprotobuf FATAL google/protobuf/stubs/common.cc:87] This program was compiled against version 3.9.2 of the Protocol Buffer runtime library, which is not compatible with the installed version (3.17.3).  Contact the program author for an update.  If you compiled the program yourself, make sure that your headers are from the same version of Protocol Buffers as your link-time library.  (Version verification failed in \"bazel-out/k8-opt/bin/tensorflow/core/framework/tensor_shape.pb.cc\".)","time":"2022-01-30T14:20:51.700Z","v":0}
+{"pid":8,"type":"jupyter","level":40,"msg":"terminate called after throwing an instance of 'google::protobuf::FatalException'","time":"2022-01-30T14:20:51.708Z","v":0}
+{"pid":8,"type":"jupyter","level":40,"msg":"  what():  This program was compiled against version 3.9.2 of the Protocol Buffer runtime library, which is not compatible with the installed version (3.17.3).  Contact the program author for an update.  If you compiled the program yourself, make sure that your headers are from the same version of Protocol Buffers as your link-time library.  (Version verification failed in \"bazel-out/k8-opt/bin/tensorflow/core/framework/tensor_shape.pb.cc\".)","time":"2022-01-30T14:20:51.709Z","v":0}
+{"pid":8,"type":"jupyter","level":30,"msg":"KernelRestarter: restarting kernel (1/5), keep random ports","time":"2022-01-30T14:20:52.159Z","v":0}
+{"pid":8,"type":"jupyter","level":40,"msg":"WARNING:root:kernel 33f70041-14a6-488b-addc-9a1f195cb113 restarted","time":"2022-01-30T14:20:52.160Z","v":0}
