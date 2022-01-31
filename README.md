@@ -5,3 +5,6 @@
 Original paper https://arxiv.org/pdf/1905.06874.pdf
 
 Used https://github.com/jiwidi/Behavior-Sequence-Transformer-Pytorch
+
+![image](https://user-images.githubusercontent.com/34160094/151857546-131325f8-4cf7-49a4-a8fd-476ed78812e4.png)
+
