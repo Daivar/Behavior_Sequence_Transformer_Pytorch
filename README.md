@@ -10,6 +10,8 @@ Used https://github.com/jiwidi/Behavior-Sequence-Transformer-Pytorch
 
 ![image](https://user-images.githubusercontent.com/34160094/151858350-185f9f60-507e-4e6d-b2cb-0ce0d0fc536e.png)
 ![image](https://user-images.githubusercontent.com/34160094/151860550-53c6cbc6-673d-46bd-bcb4-089ae08773e1.png)
+![image](https://user-images.githubusercontent.com/34160094/151863862-bf39699b-9daf-49c1-a988-930962e92a19.png)
+
 
 
 
